@@ -21,6 +21,8 @@ public class Main {
 		System.out.printf("PERIMETER = %.2f%n", rect.perimeter());
 		System.out.printf("DIAGONAL = %.2f%n", rect.diagonal());
 		
+		System.out.print("Bom dia");
+		
 		sc.close();
 	}
 
